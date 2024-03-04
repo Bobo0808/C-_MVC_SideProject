@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wang3\\OneDrive\\桌面\\C-_MVC_SideProject\\Hospital_Management\\Hospital.Models\\Hospital.Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wang3\\OneDrive\\桌面\\C-_MVC_SideProject\\Hospital_Management\\Hospital.Models\\Hospital.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wang3\\OneDrive\\桌面\\C-_MVC_SideProject\\Hospital_Management\\Hospital.Models\\Hospital.Models.csproj",
+        "projectName": "Hospital.Models",
+        "projectPath": "C:\\Users\\wang3\\OneDrive\\桌面\\C-_MVC_SideProject\\Hospital_Management\\Hospital.Models\\Hospital.Models.csproj",
+        "packagesPath": "C:\\Users\\wang3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wang3\\OneDrive\\桌面\\C-_MVC_SideProject\\Hospital_Management\\Hospital.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Visual Studio Community\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wang3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.f22rpost.tw:8081/chp.nuget/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
