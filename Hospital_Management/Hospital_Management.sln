@@ -5,15 +5,15 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital_Management", "Hospital_Management\Hospital_Management.csproj", "{F5CCEDF1-D379-4A05-BBF6-CD0303D43B49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Models", "Hospital.Models\Hospital.Models.csproj", "{20C51035-2901-4297-8E83-7DB8125AF2CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.Models", "Hospital.Models\Hospital.Models.csproj", "{20C51035-2901-4297-8E83-7DB8125AF2CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.ViewModels", "Hospital.ViewModels\Hospital.ViewModels.csproj", "{B35CFA3F-E2AC-4C0F-AB34-6A1D456D2B99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.ViewModels", "Hospital.ViewModels\Hospital.ViewModels.csproj", "{B35CFA3F-E2AC-4C0F-AB34-6A1D456D2B99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Repositories", "Hospital.Repository\Hospital.Repositories.csproj", "{8FB8EE08-E0F9-44E4-8F73-12C0E8054212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.Repositories", "Hospital.Repository\Hospital.Repositories.csproj", "{8FB8EE08-E0F9-44E4-8F73-12C0E8054212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Services", "Hospital.Services\Hospital.Services.csproj", "{51E27B23-577A-40BF-9DCA-D22512A4A614}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.Services", "Hospital.Services\Hospital.Services.csproj", "{51E27B23-577A-40BF-9DCA-D22512A4A614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Utilities", "Hospital.Utilities\Hospital.Utilities.csproj", "{521A2452-C05C-4071-8C9D-3BBFC7926ACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hospital.Utilities", "Hospital.Utilities\hospital.Utilities.csproj", "{521A2452-C05C-4071-8C9D-3BBFC7926ACA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
